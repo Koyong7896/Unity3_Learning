@@ -30,9 +30,9 @@
 .gradle/
 
 # Unity generated #
-프로젝트 폴더 경로(Program/name)/Library/
-프로젝트 폴더 경로(Program/name)/Temp/
-프로젝트 폴더 경로(Program/name)/obj/
+C:\Users\gy413\OneDrive\바탕 화면\유니티 게임 개발\2D Games\Learning\Platform Game\Platform Game_Unity3_learning\Library
+C:\Users\gy413\OneDrive\바탕 화면\유니티 게임 개발\2D Games\Learning\Platform Game\Platform Game_Unity3_learning\Temp
+C:\Users\gy413\OneDrive\바탕 화면\유니티 게임 개발\2D Games\Learning\Platform Game\Platform Game_Unity3_learning\obj
 
 # Builds
 *.apk
